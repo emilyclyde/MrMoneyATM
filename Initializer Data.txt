@@ -1,0 +1,57 @@
+ 
+            account1.AccountNumber = 12345;
+            account1.Balance = 1000.00m;
+            
+            account2.AccountNumber = 54321;
+            account2.Balance = 300.50m;
+           
+            account3.AccountNumber = 11111;
+            account3.Balance = 23700.00m;
+
+            account4.AccountNumber = 22222;
+            account4.Balance = 1000.00m;
+         
+            account5.AccountNumber = 333333;
+            account5.Balance = 7720.00m;
+           
+            account6.AccountNumber = 44444;
+            account6.Balance = 10.80m;
+           
+            account7.AccountNumber = 55555;
+            account7.Balance = 273.00m;
+            
+***************************************************
+     
+            customer1.AccountNumber = 12345;
+            customer1.PIN = 1234;
+         
+            customer2.AccountNumber = 12345;
+            customer2.PIN = 1122;
+          
+            customer3.AccountNumber = 54321;
+            customer3.PIN = 2233;
+         
+            customer4.AccountNumber = 11111;
+            customer4.PIN = 7899;
+         
+            customer5.AccountNumber = 22222;
+            customer5.PIN = 2223;
+           
+            customer6.AccountNumber = 22222;
+            customer6.PIN = 0007;
+          
+            customer7.AccountNumber = 33333;
+            customer7.PIN = 2222;
+            
+            customer8.AccountNumber = 33333;
+            customer8.PIN = 5671;
+            
+            customer9.AccountNumber = 33333;
+            customer9.PIN = 7443;
+             
+            customer10.AccountNumber = 44444;
+            customer10.PIN = 3748;
+           
+            customer11.AccountNumber = 55555;
+            customer11.PIN = 7373;
+            
